@@ -1,0 +1,70 @@
+*{
+    font-family: myriad-pro, sans-serif;
+}
+.navbar{
+    height: 80px;
+    background-color: #0F0FF7;
+    min-width: 960px;
+}
+.container-fluid{
+    background-color: #F2F2F2;
+    min-width: 960px;
+}
+.container{
+    background: #0F0FF7;
+    width: 80%;
+    padding: 2.5%;
+    border-radius: 2.5%;
+}
+.game{
+    padding: 2.5%;
+}
+.btn{
+    padding: .25rem .5rem;
+    font-size:1.25rem;
+    background-color: white;
+    color: #0000D8;
+    font-weight: 400;
+    text-align: center;
+    border-radius: 0;
+    font-weight: 800;
+}
+.tic-toc{
+    width: 40%;
+}
+.row{
+    width: 100%;
+    height: 100px;
+    background: white;
+}
+.coln{
+    width: 33.33%;
+    height: 100%;
+}
+
+.player{
+    font-size: 2rem;
+    font-weight: 800;
+    color: white;
+}
+.x-o{
+    font-size: 3.5rem;
+    font-weight: 800;
+    color: #0000D8
+}
+.br{
+    border-right: solid #0F0FF7 .25rem;
+}
+.bl{
+    border-left: solid #0F0FF7 .25rem;
+}
+.bt{
+    border-top: solid #0F0FF7 .25rem;
+}
+.bb{
+    border-bottom: solid #0F0FF7 .25rem;
+}
+.new-game{
+    font-weight: 600;
+    font-size: 1.5rem;
+}
